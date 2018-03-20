@@ -1,0 +1,16 @@
+Week 2 Python Homework
+
+Write a Python script that will:
+
+(1) Takes ONE command line parameter. For example:
+	
+	week2homework.py myparameter
+	
+	where "week2homework.py" is the name of the homework script and "myfilename" is the command line parameter that
+	we are passing into the script.
+	
+(2) Within your homework Python script, you need to save the command line parameter to a variable called: file_name
+(3) Use the variable: file_name to open the file
+(4) Read the file content and print it on the screen.
+(5) Make sure you close the file before the script ends.
+
