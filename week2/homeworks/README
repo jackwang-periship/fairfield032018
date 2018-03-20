@@ -4,7 +4,7 @@ Write a Python script that will:
 
 (1) Takes ONE command line parameter. For example:
 	
-	week2homework.py myparameter
+	week2homework.py myfilename
 	
 	where "week2homework.py" is the name of the homework script and "myfilename" is the command line parameter that
 	we are passing into the script.
@@ -14,3 +14,13 @@ Write a Python script that will:
 (4) Read the file content and print it on the screen.
 (5) Make sure you close the file before the script ends.
 
+The following steps will be done in the classroom on Week 3.
+
+(6) Modify the content of the "myfilename" and rename it to myfilename.ini
+	add: DownloadURL = www.google.com
+	     SaveTheDownloadedFileTo = c:\Python27
+	     
+(7) Use the Python buildin lib to "read" the new myfilename.ini content by specify the "keys" (DownloadURL, SaveTheDownloadedFileTo)
+(8) Print what you have "read".
+(9) Use a well know Python lib to download the file specified by the "DownloadUR"L
+(10) Save the downloaded file to the specified location using the value "SaveTheDownloadedFileTo"
