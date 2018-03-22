@@ -24,3 +24,10 @@ The following steps will be done in the classroom on Week 3.
 (8) Print what you have "read".
 (9) Use a well know Python lib to download the file specified by the "DownloadUR"L
 (10) Save the downloaded file to the specified location using the value "SaveTheDownloadedFileTo"
+
+Couple good references:
+
+https://hackernoon.com/4-ways-to-manage-the-configuration-in-python-4623049e841b
+
+https://docs.python.org/2/library/subprocess.html
+
