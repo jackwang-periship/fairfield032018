@@ -1,0 +1,62 @@
+Week3 Homework
+
+(1) Here is the list of file "open" modes that Python function has:
+
+Modes	Description
+<r>		It opens a file in read-only mode while the file offset stays at the root.
+<rb>	It opens a file in (binary + read-only) modes. And the offset remains at the root level.
+<r+>	It opens the file in both (read + write) modes while the file offset is again at the root level.
+<rb+>	It opens the file in (read + write + binary) modes. The file offset is again at the root level.
+<w>		It allows write-level access to a file. If the file already exists, then it’ll get overwritten. It’ll create a new file if the same doesn’t exist.
+<wb>	Use it to open a file for writing in binary format. Same behavior as for write-only mode.
+<w+>	It opens a file in both (read + write) modes. Same behavior as for write-only mode.
+<wb+>	It opens a file in (read + write + binary) modes. Same behavior as for write-only mode.
+<a>		It opens the file in append mode. The offset goes to the end of the file. If the file doesn’t exist, then it gets created.
+<ab>	It opens a file in (append + binary) modes. Same behavior as for append mode.
+<a+>	It opens a file in (append + read) modes. Same behavior as for append mode.
+<ab+>	It opens a file in (append + read + binary) modes. Same behavior as for append mode.
+
+Write Python script that takes 2 command line parameters. Both of the parameters should be the name
+of the an existing file. They should be different file though. Your homework script should:
+	a. Open the file specified by the first parameter
+	b. Open the file that is specified by the second parameter.
+	c. Read the file that has being opened in step b.
+	d. Append the file content in step b into the file that has being opened in step a.
+
+The end result of running this homework script is: the file specified by parameter ONE will
+contain the content from the file specified by parameter TWO. This is basically a file concatenation
+(concatenate the file ONE with the content of file TWO at the end of file ONE) script.
+
+(2) Python File Read by position:
+
+Here is a more detailed description of the Python file read operation:
+
+* you can use Python <read(size)> function to read the content of a file up to the size. 
+If you don’t pass the size, then it’ll read the whole file which is we have have being using in the 
+class
+
+* The <tell()> method gives you the current offset of the file pointer in a file.
+
+* The <seek(offset[, from])> method can help you change the position of a file pointer in a file.
+
+* The <offset> argument represents the size of the displacement 
+while the <from> argument indicates the start point.
+
+* If the <from> value is 0, then the shift will start from the root level. 
+* If it’s value is 1, then the reference position will become the current position. 
+* Also, if it is 2, then the end of file would serve as the reference position.
+
+Base on the above information, write a Python script that will:
+
+a. Read 19 character long content from an existing file and print the result out.
+b. Check the current file read position and print the result out.
+c. Read another 19 character long content from the same file.
+c. Reposition the read position to the beginning of the file.
+d. Read the entire content and print it out.
+e. close the file.
+
+
+
+
+
+  
