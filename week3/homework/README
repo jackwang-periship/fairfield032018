@@ -50,10 +50,11 @@ Base on the above information, write a Python script that will:
 
 a. Read 19 character long content from an existing file and print the result out.
 b. Check the current file read position and print the result out.
-c. Read another 19 character long content from the same file.
-c. Reposition the read position to the beginning of the file.
-d. Read the entire content and print it out.
-e. close the file.
+c. Escape 6 characters by calling the file "seek" method.
+d. Read another 10 character long content from the same file.
+e. Reposition the read position to the beginning of the file.
+f. Read the entire content and print it out.
+g. close the file.
 
 
 

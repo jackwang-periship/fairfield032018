@@ -1,0 +1,81 @@
+[06/Mar/2018 18:21:08] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] Entering doRateServiceRequest 
+[06/Mar/2018 18:21:09] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] getting from cache 9b3e943834369723f4f6f27a6779fa75
+[07/Mar/2018 19:20:40] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] Entering doRateServiceRequest 
+[07/Mar/2018 19:20:43] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] getRates Success! 
+[07/Mar/2018 19:20:43] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] Exiting doRateServiceRequest 
+[07/Mar/2018 19:20:53] INFO [yafg:818] [yafg] [User: admin] [PID: 3626 ] Entering doRateServiceRequest 
+[07/Mar/2018 19:20:55] INFO [yafg:818] [yafg] [User: admin] [PID: 3626 ] getRates Success! 
+[07/Mar/2018 19:20:55] INFO [yafg:818] [yafg] [User: admin] [PID: 3626 ] Exiting doRateServiceRequest 
+[07/Mar/2018 19:23:08] WARNING [django.request:152] Not Found: /soap2jsonz/getrate/test/gen01/
+[07/Mar/2018 19:23:34] INFO [yafg:818] [yafg] [User: admin] [PID: 3626 ] Entering doRateServiceRequest 
+[07/Mar/2018 19:23:35] INFO [yafg:818] [yafg] [User: admin] [PID: 3626 ] getting from cache 86477d49b7dd49cf73df71e8c10b60e3
+[07/Mar/2018 19:25:52] WARNING [django.request:152] Not Found: /soap2jsonz/getrate/test/gen01/
+[07/Mar/2018 19:26:52] WARNING [django.request:152] Not Found: /soap2jsonz/getrate/test/gen01/
+[07/Mar/2018 19:27:42] WARNING [django.request:152] Not Found: /soap2jsonz/getrate/test/gen01/
+[07/Mar/2018 19:28:33] WARNING [django.request:152] Not Found: /soap2jsonz/getrate/test/gen01/
+[07/Mar/2018 19:30:00] WARNING [django.request:152] Not Found: /soap2jsonz/getrate/test/gen01/
+[07/Mar/2018 19:37:07] WARNING [django.request:152] Not Found: /soap2jsonz/getrate/test/gen01/
+[07/Mar/2018 19:37:30] WARNING [django.request:152] Not Found: /soap2jsonz/getrate/test/gen01/
+[07/Mar/2018 19:38:07] WARNING [django.request:152] Not Found: /soap2jsonz/getrate/test/gen01/
+[07/Mar/2018 19:39:03] WARNING [django.request:152] Not Found: /soap2jsonz/getrate/test/gen01/
+[07/Mar/2018 19:40:22] WARNING [django.request:152] Not Found: /soap2jsonz/getrate/test/gen01/
+[07/Mar/2018 19:43:17] WARNING [django.request:152] Not Found: /soap2jsonz/getrate/test/gen01/
+[07/Mar/2018 19:47:31] WARNING [django.request:152] Not Found: /soap2jsonz/getrate/test/gen01/
+[07/Mar/2018 19:48:05] WARNING [django.request:152] Not Found: /soap2jsonz/getrate/test/gen01/
+[07/Mar/2018 19:48:54] WARNING [django.request:152] Not Found: /soap2jsonz/getrate/test/gen01/
+[07/Mar/2018 19:50:22] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] Entering doRateServiceRequest 
+[07/Mar/2018 19:50:22] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] getting from cache 86477d49b7dd49cf73df71e8c10b60e3
+[07/Mar/2018 20:16:27] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] Entering doRateServiceRequest 
+[07/Mar/2018 20:16:28] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] getting from cache 86477d49b7dd49cf73df71e8c10b60e3
+[07/Mar/2018 20:19:06] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] Entering doRateServiceRequest 
+[07/Mar/2018 20:19:06] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] getting from cache 86477d49b7dd49cf73df71e8c10b60e3
+[07/Mar/2018 20:19:28] INFO [yafg:818] [yafg] [User: admin] [PID: 3626 ] Entering doRateServiceRequest 
+[07/Mar/2018 20:19:29] INFO [yafg:818] [yafg] [User: admin] [PID: 3626 ] getting from cache 301de89c70e72460d36ee2ca45ad4512
+[07/Mar/2018 20:20:33] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] Entering doRateServiceRequest 
+[07/Mar/2018 20:20:33] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] getting from cache 301de89c70e72460d36ee2ca45ad4512
+[07/Mar/2018 20:21:40] INFO [yafg:818] [yafg] [User: admin] [PID: 3626 ] Entering doRateServiceRequest 
+[07/Mar/2018 20:21:41] INFO [yafg:818] [yafg] [User: admin] [PID: 3626 ] getting from cache 301de89c70e72460d36ee2ca45ad4512
+[07/Mar/2018 20:22:28] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] Entering doRateServiceRequest 
+[07/Mar/2018 20:22:28] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] getting from cache 301de89c70e72460d36ee2ca45ad4512
+[07/Mar/2018 20:22:51] INFO [yafg:818] [yafg] [User: admin] [PID: 3626 ] Entering doRateServiceRequest 
+[07/Mar/2018 20:22:51] INFO [yafg:818] [yafg] [User: admin] [PID: 3626 ] getting from cache 301de89c70e72460d36ee2ca45ad4512
+[07/Mar/2018 20:36:02] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] Entering doRateServiceRequest 
+[07/Mar/2018 20:36:02] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] getting from cache 301de89c70e72460d36ee2ca45ad4512
+[07/Mar/2018 20:36:51] INFO [yafg:818] [yafg] [User: admin] [PID: 3626 ] Entering doRateServiceRequest 
+[07/Mar/2018 20:36:52] INFO [yafg:818] [yafg] [User: admin] [PID: 3626 ] getting from cache 301de89c70e72460d36ee2ca45ad4512
+[07/Mar/2018 20:44:58] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] Entering doRateServiceRequest 
+[07/Mar/2018 20:44:58] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] getting from cache 301de89c70e72460d36ee2ca45ad4512
+[07/Mar/2018 21:49:17] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] Entering doRateServiceRequest 
+[07/Mar/2018 21:49:17] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] getting from cache 301de89c70e72460d36ee2ca45ad4512
+[07/Mar/2018 21:52:43] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] Entering doRateServiceRequest 
+[07/Mar/2018 21:52:44] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] getting from cache 301de89c70e72460d36ee2ca45ad4512
+[07/Mar/2018 21:57:34] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] Entering doRateServiceRequest 
+[07/Mar/2018 21:57:35] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] getting from cache 301de89c70e72460d36ee2ca45ad4512
+[07/Mar/2018 22:01:01] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] Entering doRateServiceRequest 
+[07/Mar/2018 22:01:01] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] getting from cache 301de89c70e72460d36ee2ca45ad4512
+[07/Mar/2018 22:04:55] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] Entering doRateServiceRequest 
+[07/Mar/2018 22:04:55] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] getting from cache 301de89c70e72460d36ee2ca45ad4512
+[07/Mar/2018 22:05:30] INFO [yafg:818] [yafg] [User: admin] [PID: 3626 ] Entering doRateServiceRequest 
+[07/Mar/2018 22:05:30] INFO [yafg:818] [yafg] [User: admin] [PID: 3626 ] getting from cache 301de89c70e72460d36ee2ca45ad4512
+[07/Mar/2018 22:05:57] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] Entering doRateServiceRequest 
+[07/Mar/2018 22:05:57] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] getting from cache 301de89c70e72460d36ee2ca45ad4512
+[07/Mar/2018 22:06:13] INFO [yafg:818] [yafg] [User: admin] [PID: 3626 ] Entering doRateServiceRequest 
+[07/Mar/2018 22:06:14] INFO [yafg:818] [yafg] [User: admin] [PID: 3626 ] getting from cache 301de89c70e72460d36ee2ca45ad4512
+[08/Mar/2018 05:36:14] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] Entering doRateServiceRequest 
+[08/Mar/2018 05:36:14] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] getting from cache 9b3e943834369723f4f6f27a6779fa75
+[08/Mar/2018 05:37:03] INFO [yafg:818] [yafg] [User: admin] [PID: 3626 ] Entering doRateServiceRequest 
+[08/Mar/2018 05:37:03] INFO [yafg:818] [yafg] [User: admin] [PID: 3626 ] getting from cache 9b3e943834369723f4f6f27a6779fa75
+[08/Mar/2018 05:38:05] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] Entering doRateServiceRequest 
+[08/Mar/2018 05:38:05] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] getting from cache 7400cc39cd330461f1f4f720a5c36208
+[08/Mar/2018 05:42:31] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] Entering doRateServiceRequest 
+[08/Mar/2018 05:42:31] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] getting from cache 7400cc39cd330461f1f4f720a5c36208
+[08/Mar/2018 06:09:29] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] Entering doRateServiceRequest 
+[08/Mar/2018 06:09:29] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] getting from cache 9b3e943834369723f4f6f27a6779fa75
+[08/Mar/2018 06:21:02] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] Entering doRateServiceRequest 
+[08/Mar/2018 06:21:02] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] getting from cache 9b3e943834369723f4f6f27a6779fa75
+[08/Mar/2018 06:29:42] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] Entering doRateServiceRequest 
+[08/Mar/2018 06:29:43] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] getting from cache 7400cc39cd330461f1f4f720a5c36208
+[08/Mar/2018 09:09:49] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] Entering doRateServiceRequest 
+[08/Mar/2018 09:09:49] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] getting from cache 9b3e943834369723f4f6f27a6779fa75
+[08/Mar/2018 10:12:14] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] Entering doRateServiceRequest 
+[08/Mar/2018 10:12:14] INFO [yafg:818] [yafg] [User: admin] [PID: 3617 ] getting from cache 9b3e943834369723f4f6f27a6779fa75
