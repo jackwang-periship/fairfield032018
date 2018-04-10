@@ -1,0 +1,60 @@
+****** Homework 1, Python List Comprehension:
+
+	(1) Split the following phrase into each individual word. 
+	
+	'The quick brown fox jumps over the lazy dog'
+	
+	Store the result words in a variable called: "WORDS". 
+	Please note that the variable "WORDS" is a Python list data type.
+	
+	(2) Do the following operation to each WORDS into: 
+		Convert it to upper case, 
+		Convert it to lower case 
+		Calculate length of the word.
+		
+		Create a list to store the result of the above operation. For example,
+		if the word is: "Hello", you should create a list as: ["HELLO", "hello", 5].
+		
+	(3) Use the results of (2) to create a list which holds all the "word list". 
+	For example: 
+		If the phrase is: "Hello World", then the final result should be:
+		[["HELLO", "hello", 5],["WORLD", "world", 5]]
+		
+
+****** Homework 2, Check the variable for data type before print it out:
+
+	(1) Use the following list:
+	
+	["Hello", 1, "World!", 345, "My height", 5.11]
+	
+	(2) Write a Pythin script to print out all the items in the list correctly. The result should be:
+	
+		Hello
+		1
+		World
+		345
+		My height
+		5.11
+
+****** Homework 3, Python Dictionary example - write a script that does the following:
+
+(1) Define empty dictionary called "ages".
+(2) Add the following "key-value" pair into the above dictionary:
+so the result would like this:
+	ages = { 'Sue' : 23,
+			'Peter': 19,
+			'Andrew': 78,
+			'Karren':45	}
+(3) Use the function has_key() on dictionary "ages" - This function takes this form:
+	function_name.has_key(key-name)
+		It returns TRUE if the dictionary has key-name in it
+		but returns FALSE if it doesn't.
+	Please note that this is how 'if' statements work - they run if something is true
+	and they don't when something is false.
+(4) Use the function keys() on dictionary "ages" to print all the keys in the dictionary
+ 	- This function returns a list of all the names of the keys.
+(5) Use the function values() on dictionary "ages" to print all the values in the dictionary 
+	- This function returns all the values in a dictionary.
+(6) Use the function sort() on dictionary "ages" to sort dictionary items based on the values and print the result out. 
+	- The sort() function will sort all values in a list alphabetically, numerically, etc...
+(7) Use the len() function to find out how many items in the dictionary "ages". Print the result out.
