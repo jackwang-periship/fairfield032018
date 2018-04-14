@@ -62,6 +62,7 @@ def send_email_with_attachment(server, port, username, password, email_from, ema
         attachment = open(attached_filed_name, "rb")
         part = MIMEBase('application', 'octet-stream')
         part.set_payload((attachment).read())
+        #IMPORTANT: convert the file into a Base64 before sending it
         encoders.encode_base64(part)
         part.add_header('Content-Disposition', "attachment; filename= %s" % attached_filed_name)
         msg.attach(part)
