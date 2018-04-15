@@ -1,0 +1,55 @@
+
+* HOMEWORK 1 - Write a Python script does the following:
+(1) Create a class called: ComplexNumber.
+This class will have two attributes:
+
+	real
+	imag
+	
+(2) The class: ComplexNumber also should have a method called:
+
+	getData()
+
+It returns the REAL and IMAG part of the ComplexNumber
+
+(3) Using __init__() function to create a class constructor for ComplexNumber
+The constructor will take two parameters: real, imag
+ONE IMPORTANT requirement:
+The constructor has to have the default values of 0 for both "real" and "imag" attribute.
+This means when the object is created:
+
+ 	myComplexNumber = ComplexNumber()
+ 
+myComplexNumber's real and imag attribute will be set to 0
+
+(4) Instantiate couple of ComplexNumber class objects. Use the getData() method to 
+print out the results.
+
+(5) Question: can we add the additional attributes to the class/object once the
+object is created? For example, something about the following two lines:
+
+	temp = ComplexNumber(5)
+	temp.attr = 10
+
+
+* HOMEWORK 2 - Write a Python script that will 
+
+(1) Convert a list of temperatures from Fahrenheit to Celsius. Store the result into a new list called "convertedFromF"
+To convert temperatures in degrees Fahrenheit to Celsius, subtract 32 and multiply by .5556 (or 5/9).
+
+    Example: (50°F - 32) x .5556 = 10°C
+
+(2) Convert a list of temperatures from Celsius to Fahrenheit. Store the result into a new list called "convertedFromF"
+To convert temperatures in degrees Celsius to Fahrenheit, multiply by 1.8 (or 9/5) and add 32.
+
+    Example: 30°C x 1.8 + 32 = 86°F
+
+(3) Create a new list from the resulted F to C conversion
+
+(4) Create a new list from the resulted C to F conversion
+
+(5) Using Python "filter" to filter out the Fahrenheit temperatures that is higher than 90 and lower than 40.
+Store the result in a new list.
+
+(6) Using Python "filter" to filter out the Celsius temperatures that is higher than 30 and lower than 15
+Store the result in a new list.
