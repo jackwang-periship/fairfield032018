@@ -53,3 +53,20 @@ Store the result in a new list.
 
 (6) Using Python "filter" to filter out the Celsius temperatures that is higher than 30 and lower than 15
 Store the result in a new list.
+
+* HOMEWORK 3 - Write a Python script that will handle number of Exception scenarios
+
+(1) Prompt user to enter an integer or float:
+
+(2) Calculate the inverse of the inputed integer (or float):
+
+	x = 1.0 / inpouted_integer_or_float
+	
+(3) Capture the exception of user enters 0.
+
+(4) Capture the exception of user enter a non integer or float. For example: hello
+
+
+
+
+
