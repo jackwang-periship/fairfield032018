@@ -1,0 +1,14 @@
+Homework 1 - Using BeautifulSoup and Pandas
+
+(1) Using the QB stats on fantasy football league page (year 2015 only):
+
+"https://www.fantasypros.com/nfl/reports/leaders/qb.php?year=2015"
+
+(2) The page in (1) contains the table of QB scores (Total, Game played and Average)
+in 2015.
+
+(3) Parse the page and generate the matching CSV file.
+Store it as a file.
+
+(4) Use the matplotlib to plot the bar-chart that its X-axile represents the average score
+and Y-axile represents the counts of number of QBs that has a given average score.
